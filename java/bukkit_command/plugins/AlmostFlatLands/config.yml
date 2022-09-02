@@ -1,0 +1,19 @@
+prevent-spawning: true
+set-world-type: true
+world-height: 32
+world-biome: PLAINS
+world-grass-chance: 14
+world-flower-chance: 1
+world-tree-chance: 15
+world-tree-types:
+- TREE
+- BIRCH
+- BIG_TREE
+world-create-ore: true
+world-ores:
+  gravel: true
+  gold-ore: true
+  iron-ore: true
+  redstone-ore: true
+  diamond-ore: true
+  lapis-ore: true

@@ -1,0 +1,21 @@
+portals:
+  flat:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Kronos
+    location: 222.0,72.0,325.0:223.0,76.0,325.0
+    world: world
+    destination: flat1
+  world:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Kronos
+    location: 845.0,4.0,-519.0:846.0,8.0,-519.0
+    world: flat1
+    destination: world
